@@ -35,6 +35,5 @@ tier charges using Power Query, Power Pivot, and Pivot Charts.
 Data Cleaning | Power Query | Power Pivot | Pivot Tables |
 Dashboard Development | Healthcare Analytics | KPI Reporting | Data Visualization
 
-![image alt]{https://github.com/Ganesh20000/IT_vedant_project/blob/master/Excel_project/Diabetes_patients_analysis.png}
-
+![image alt](https://github.com/Ganesh20000/IT_vedant_project/blob/master/Excel_project/Diabetes_patients_analysis.png)
 
